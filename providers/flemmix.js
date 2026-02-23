@@ -29,4 +29,4 @@ const provider = {
     }
 };
 
-export default provider;
+module.exports = provider;
