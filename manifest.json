@@ -1,0 +1,12 @@
+{
+  "name": "Flemmix Provider",
+  "id": "com.flemmix.provider",
+  "version": "1.0.0",
+  "providers": [
+    {
+      "id": "flemmix",
+      "name": "Flemmix",
+      "file": "providers/flemmix.js"
+    }
+  ]
+}
